@@ -66,3 +66,5 @@ while True:
                 print(word)
                 print('You win!')
                 break
+    else:
+        print('Please enter 1, 2 or 3 only')
